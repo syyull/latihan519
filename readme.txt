@@ -5,3 +5,4 @@ Baris ke 4
 baris ke 5
 baris ke 6
 baris ke 7
+tambahan kode dari daniel
